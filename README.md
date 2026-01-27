@@ -30,3 +30,4 @@ Finishing the AudioRoom MVP:
 ## 📫 How to reach me
 
 Email: **larryscanniello@gmail.com**
+LinkedIn: **https://linkedin.com/in/larry-scanniello**
