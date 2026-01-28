@@ -4,6 +4,8 @@ I'm a computer science & math graduate looking for my first software engineering
 
 ## Featured Project: AudioRoom
 
+[Github Link](https://www.github.com/larryscanniello/AudioRoom)
+
 [YouTube Demo (previous version)](https://www.youtube.com/watch?v=oN72QALuHg8)
 
 **AudioRoom** is a real-time video chat application with a built-in digital audio workstation, allowing users to collaborate on music directly in the browser.
