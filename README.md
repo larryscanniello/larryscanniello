@@ -2,13 +2,13 @@
 
 I'm a computer science & math graduate looking for my first software engineering role. Interested in building thoughtful, well-designed software. Open to software roles of all kinds.
 
-## Featured Project: AudioRoom
+## Featured Project: WaveReel
 
-[Github Link](https://www.github.com/larryscanniello/AudioRoom)
+[WaveReel Repository](https://github.com/larryscanniello/WaveReel)
 
 [YouTube Demo (previous version)](https://www.youtube.com/watch?v=oN72QALuHg8)
 
-**AudioRoom** is a real-time video chat application with a built-in digital audio workstation, allowing users to collaborate on music directly in the browser.
+**WaveReel** is a real-time video chat application with a built-in digital audio workstation, allowing users to collaborate on music directly in the browser.
 
 Key features include:
 - A custom Web Audio–based audio engine
@@ -24,10 +24,10 @@ Key features include:
 
 ## What I'm working on
 
-Finishing the AudioRoom MVP:
-- Testing and debugging audio playback and waveform rendering  
-- Adding core editing features  
-- Integrating AWS infrastructure  
+Finishing the WaveReel MVP:
+- Testing the editing features
+- Implementing audio downloads
+- Adding a mixer and virtual MIDI instruments
 
 ## How to reach me
 
