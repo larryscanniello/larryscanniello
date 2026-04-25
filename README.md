@@ -6,7 +6,7 @@ I'm a computer science & math graduate looking for my first software engineering
 
 [WaveReel Repository](https://github.com/larryscanniello/WaveReel)
 
-[YouTube Demo (previous version)](https://www.youtube.com/watch?v=oN72QALuHg8)
+[YouTube Demo](https://www.youtube.com/watch?v=XrenmnpE9FU)
 
 **WaveReel** is a real-time video chat application with a built-in digital audio workstation, allowing users to collaborate on music directly in the browser.
 
