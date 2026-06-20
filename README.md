@@ -24,10 +24,14 @@ Key features include:
 
 ## What I'm working on
 
+Making an audio plugin in C++ with JUCE:
+
+[SaturEQ](https://github.com/larryscanniello/SaturEQ)
+
 Finishing the WaveReel MVP:
-- Testing the editing features
-- Implementing audio downloads
-- Adding a mixer and virtual MIDI instruments
+- Adding effects
+- Cloud storage of songs
+- Project bounces
 
 ## How to reach me
 
